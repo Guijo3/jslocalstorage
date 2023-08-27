@@ -1,2 +1,1 @@
-# jslocalstorage
- jslocalstorage
+# alura-armazenando-na-web
